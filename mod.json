@@ -1,0 +1,17 @@
+{
+	"geode": "3.8.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "omgrod.useless_mod",
+	"name": "Useless Mod",
+	"version": "v1.0.0",
+	"developer": "OmgRod",
+	"description": "Auto uninstalls itself on startup",
+	"tags": [
+		"joke"
+	]
+}
